@@ -376,3 +376,12 @@ enables writing purely functional libraries with almost zero complexity."
   topic: "Adventures in type-safe error handling"
   description: "Error handling is hard - It's a constant struggle between type-safety, ergonomics and performance. Can we have all three? 
   In this talk, we will look at various approaches (including a new library) to handling errors in Scala with their advantages and drawbacks."
+
+- title: Karl Brodowsky
+  name: Karl Brodowsky
+  subtitle: Software Architect and Developer
+  img: Karl_Brodowsky.jpg
+  thumbnail: Karl_Brodowsky.jpg
+  alt: Karl Brodowsky
+  topic: Making Algorthms work with Functional Scala
+  description: "In this talk we will use sorting algorithms as an example for making algorithms work faster. First we will explore how to ensure that the functional nature of scala does not stop us from writing efficient algorithms, that tend to mutate data a lot. Then we will address some ideas for making algorithms faster than what we usually have"
