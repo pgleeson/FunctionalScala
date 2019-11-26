@@ -1,26 +1,41 @@
-- time: 9:00 AM - 9:50 AM
-  info: "<u>KEYNOTE: Scala: End Game</u><br><b>John A. De Goes & Wiem Zine Elabidine</b>"
+- time: 8:30 AM - 9:25 AM
+  info: "<u>KEYNOTE: XS — A Collections CLI</u><br><b>Paul Phillips</b>"
+
+- time: 9:30 AM - 9:55 AM
+  info: "<u>Making Algorthms work with Functional Scala</u><br><b>Karl Brodowsky</b>"
 
 - time: 10:00 AM - 10:50 AM
   info: "<u>Fancy (Z)Streams for Fancy Programs</u><br><b>Itamar Ravid</b>"
 
-- time: 11:00 AM - 11:50 AM
-  info: "<u>TBA</u><br><b>Jakub Kozlowski</b>"
+- time: 11:00 AM - 11:25 AM
+  info: "<u>Going Bananas with Cats</u><br><b>Jakub Kozlowski</b>"
+
+- time: 11:30 AM - 11:55 AM
+  info: "<u>Mixing Scala & Kotlin</u><br><b>Alexey Soshin</b>"
 
 - time: 12:00 PM - 1:00 PM
-  info: "<b>LUNCH BREAK</b>"  
+  info: "<b>LUNCH BREAK</b>"
 
-- time: 1:00 PM - 1:50 PM
-  info: "<u>Scala & Kotlin, Working Together</u><br><b>Alexey Soshin</b>"
+- time: 1:00 PM - 1:25 PM
+  info: "<u>Prototyping the Future with Functional Scala</u><br><b>Mike Kotsur</b>"
 
-- time: 2::00 PM - 2:50 PM
-  info: "<u>Demystify Functional effects with Apache Spark and Scala</u><br><b>Chetan Khatri</b>"
+- time: 1:30 PM - 1:55 PM
+  info: "<u>Demystify Functional Effects with Apache Spark and Scala</u><br><b>Chetan Khatri</b>"
 
-- time: 3:00 PM - 3:50 PM
-  info: "<u>Unveiling ZIO Test: A New Testing Library for Functional Scala</u><br><b>Adam Fraser</b>"
+- time: 2:00 PM - 2:50 PM
+  info: "<u>Test Effects: First Class</u><br><b>Adam Fraser</b>"
 
-- time: 4:00 PM - 4:50 PM
+- time: 3:00 PM - 3:25 PM
+  info: "<u>Let's Gossip!</u><br><b>Dejan Mijic</b>"
+
+- time: 3:30 PM - 3:55 PM
+  info: "<u>Pierangelo Cecchetto</u><br><b>Ray Tracing with ZIO</b>"
+
+- time: 4:00 PM - 4:25 PM
   info: "<u>Validity-Based Testing</u><br><b>Tom Sydney Kerckhove</b>"
 
+- time: 4:30 PM - 4:55 PM
+  info: "<u>Invertible Programs</u><br><b>Sergei Shabanau</b>"
+
 - time: 5:00 PM - 5:50 PM
-  info: "<u>KEYNOTE: TBA</u><br><b>TBA</b>"
+  info: "<u>KEYNOTE: Unleash Your Fury</u><br><b>Jon Pretty</b>"
