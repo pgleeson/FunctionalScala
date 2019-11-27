@@ -385,3 +385,14 @@ enables writing purely functional libraries with almost zero complexity."
   alt: Karl Brodowsky
   topic: Making Algorthms work with Functional Scala
   description: "In this talk we will use sorting algorithms as an example for making algorithms work faster. First we will explore how to ensure that the functional nature of scala does not stop us from writing efficient algorithms, that tend to mutate data a lot. Then we will address some ideas for making algorithms faster than what we usually have"
+
+- title: Maxim Schuwalow
+  name: Maxim-Schuwalow
+  subtitle: Backend Engineer at Zalando SE
+  img: Maxim_Schuwalow.jpg
+  thumbnail: Maxim_Schuwalow.jpg
+  alt: Maxim Schuwalow
+  topic: "Macros and environmental effects"
+  description: "ZIO's environment type provides a powerful way to pass dependencies deep down into your program and structure applications.
+  Using it in practice though, it turns out that there are a few usability issues left to solve. As usual, one way to solve these is to turn to metaprogramming.
+  In this talk, we will explore zio-macros and take a look at the patterns that become possible if you enrich your functional effect system with a tiny bit of magic."
