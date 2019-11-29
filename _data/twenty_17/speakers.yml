@@ -409,3 +409,13 @@ enables writing purely functional libraries with almost zero complexity."
   So we set out to create a new notebook tool from scratch, which provides essential code editing features that other tools lack,
   as well as seamless interoperability between multiple languages – including Scala, Python, and SQL – and a host of other improvements that evolve the notebook experience.
   We'll demonstrate our open-source notebook solution – and talk about why we built it, how some great functional Scala libraries allowed us to go from zero to MVP in an unbelievably short time, and what we learned from migrating to ZIO"
+
+- title: Mateusz Sokol
+  name: Mateusz-Sokol
+  subtitle: Software Engineer at Scalac
+  img: Mateusz_Sokol.jpg
+  thumbnail: Mateusz_Sokol.jpg
+  alt: Mateusz Sokol
+  topic: "ZIO Actors"
+  description: "Actors are one of the most popular concurrency models in nowadays software systems. In this talk, Mateusz will present zio-actors - a small, strongly typed actor library backed by ZIO.
+  He will explain library design, demonstrate its usage and point out the differences and similarities with Akka."
