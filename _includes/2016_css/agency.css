@@ -370,7 +370,7 @@ header .intro-text .intro-heading {
     line-height: 40px;
 }
 
-@media(min-width:768px) {    
+@media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -485,6 +485,12 @@ section h3.section-subheading {
 #speakers .speakers-item .speakers-caption h4 {
     margin: 0;
     text-transform: none;
+}
+
+.leftimg {
+  float:left;
+  margin: 7px 40px 20px 20px;
+  width: 600px;
 }
 
 /*
