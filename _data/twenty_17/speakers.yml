@@ -345,12 +345,15 @@ Welcome version 0.2 of the library with simpler API, new features and, as usual,
 
 - title: Piotr Golebiewski
   name: Piotr-Golebiewski
-  subtitle: Coming soon
+  subtitle: Scala consultant, OSS contributor
   img: Piotr_Golebiewski.jpg
   thumbnail: Piotr_Golebiewski.jpg
   alt: Piotr Golebiewski
-  topic: coming soon
-  description: coming soon
+  topic: "Taming complexity: modular design with ZIO"
+  description: "Modern applications often form complex systems with wide range of responsibilities.
+  As business requirements evolve often what was once a simple process grows to cover many scenarios and corner cases.
+  Given enough time, are we doomed to end up with unmaintainable codebase?
+  Not necessarily. Meet ZIO, a modern functional programming toolbox specificly designed around the idea of composability."
 
 - title: Afsal Thaj
   name: Afsal-Thaj
