@@ -413,6 +413,20 @@ enables writing purely functional libraries with almost zero complexity."
   as well as seamless interoperability between multiple languages – including Scala, Python, and SQL – and a host of other improvements that evolve the notebook experience.
   We'll demonstrate our open-source notebook solution – and talk about why we built it, how some great functional Scala libraries allowed us to go from zero to MVP in an unbelievably short time, and what we learned from migrating to ZIO"
 
+- title: Jonathan Indig
+  name: Jonathan-Indig
+  subtitle: Sr. Software Engineer at Neflix
+  img: Jonathan_Indig.jpg
+  thumbnail: Jonathan_Indig.jpg
+  alt: Jonathan Indig
+  topic: "Solving the Scala Notebook Experience"
+  description: "Notebooks have become an essential tool for data science and machine learning research.
+  We felt the existing tools weren't satisfactory for Scala, and lacked the features that developers need in order to productively create reproducible notebooks.
+  So we set out to create a new notebook tool from scratch, which provides essential code editing features that other tools lack,
+  as well as seamless interoperability between multiple languages – including Scala, Python, and SQL – and a host of other improvements that evolve the notebook experience.
+  We'll demonstrate our open-source notebook solution – and talk about why we built it, how some great functional Scala libraries allowed us to go from zero to MVP in an unbelievably short time, and what we learned from migrating to ZIO"
+
+
 - title: Mateusz Sokol
   name: Mateusz-Sokol
   subtitle: Software Engineer at Scalac
