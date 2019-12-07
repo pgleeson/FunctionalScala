@@ -1,16 +1,16 @@
-- time: 8:30 AM - 9:25 AM
+- time: 9:00 AM - 9:55 AM
   info: "<u>KEYNOTE: XS — A Collections CLI</u><br><b>Paul Phillips</b>"
 
-- time: 9:30 AM - 9:55 AM
+- time: 10:00 AM - 10:25 AM
   info: "<u>Making Algorthms work with Functional Scala</u><br><b>Karl Brodowsky</b>"
 
-- time: 10:00 AM - 10:50 AM
-  info: "<u>Fancy (Z)Streams for Fancy Programs</u><br><b>Itamar Ravid</b>"
+- time: 10:30 AM - 11:00 AM
+  info: "<u>Solving the Scala Notebook Experience</u><br><b>Jeremy Smith & Jonathan Indig</b>"
 
-- time: 11:00 AM - 11:25 AM
+- time: 11:05 AM - 11:30 AM
   info: "<u>Going Bananas with Cats</u><br><b>Jakub Kozlowski</b>"
 
-- time: 11:30 AM - 11:55 AM
+- time: 11:35 AM - 12:00 AM
   info: "<u>Mixing Scala & Kotlin</u><br><b>Alexey Soshin</b>"
 
 - time: 12:00 PM - 1:00 PM
@@ -18,9 +18,6 @@
 
 - time: 1:00 PM - 1:25 PM
   info: "<u>Prototyping the Future with Functional Scala</u><br><b>Mike Kotsur</b>"
-
-- time: 1:30 PM - 1:55 PM
-  info: "<u>Demystify Functional Effects with Apache Spark and Scala</u><br><b>Chetan Khatri</b>"
 
 - time: 2:00 PM - 2:50 PM
   info: "<u>Test Effects: First Class</u><br><b>Adam Fraser</b>"
