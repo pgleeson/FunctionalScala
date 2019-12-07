@@ -4,19 +4,19 @@
 - time: 10:00 AM - 10:25 AM
   info: "<u>Making Algorthms work with Functional Scala</u><br><b>Karl Brodowsky</b>"
 
-- time: 10:30 AM - 11:00 AM
+- time: 10:30 AM - 11:20 AM
   info: "<u>Solving the Scala Notebook Experience</u><br><b>Jeremy Smith & Jonathan Indig</b>"
 
-- time: 11:05 AM - 11:30 AM
+- time: 11:25 AM - 12:00 AM
   info: "<u>Going Bananas with Cats</u><br><b>Jakub Kozlowski</b>"
-
-- time: 11:35 AM - 12:00 AM
-  info: "<u>Mixing Scala & Kotlin</u><br><b>Alexey Soshin</b>"
 
 - time: 12:00 PM - 1:00 PM
   info: "<b>LUNCH BREAK</b>"
 
 - time: 1:00 PM - 1:25 PM
+  info: "<u>Mixing Scala & Kotlin</u><br><b>Alexey Soshin</b>"
+
+- time: 1:25 PM - 1:55 PM
   info: "<u>Prototyping the Future with Functional Scala</u><br><b>Mike Kotsur</b>"
 
 - time: 2:00 PM - 2:50 PM
