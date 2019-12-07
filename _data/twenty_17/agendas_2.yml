@@ -1,13 +1,10 @@
-- time: 8:30 AM - 9:25 AM
+- time: 9:00 AM - 9:55 AM
   info: "<u>Fancy (Z)Streams for Fancy Programs</u><br><b>Itamar Ravid</b>"
 
-- time: 9:00 AM - 9:50 AM
-  info: "<u></u><br><b></b>"
-
-- time: 10:00 AM - 10:50 AM
+- time: 10:00 AM - 10:55 AM
   info: "<u>Functional Architecture</u><br><b>Piotr Golebiewski</b>"
 
-- time: 11:00 AM - 11:50 AM
+- time: 11:00 AM - 11:55 AM
   info: "<u>Caliban: Designing a Functional GraphQL Library</u><br><b>Pierre Ricadat</b>"
 
 - time: 12:00 PM - 1:00 PM
