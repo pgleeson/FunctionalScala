@@ -76,6 +76,20 @@ with a renewed interest for seeing their programs as Lego bricks that they can a
   img: Itamar_Ravid.jpg
   thumbnail: Itamar_Ravid.jpg
   alt: Itamar Ravid
+  topic: "Modern Data-Driven Applications with ZIO Streams"
+  description: "Most applications these days have to deal with some form of data processing.
+Whether it's data ingestion, aggregation or persistence - it's hard to avoid!
+Dealing with these tasks can be a nightmare without a fitting abstraction. In
+this talk, we will see why ZIO Streams can be the perfect basis on which
+to build your application.
+<br/>
+<p>Throughout the talk, and with numerous examples, we will see how ZIO
+Streams enables developers to quickly and succinctly construct
+concurrent and resource-safe applications. We will also look at the
+internal representation of ZStream to gain a deeper understanding of
+how it works under the hood. No prior experience with the library is
+required!</p>"
+
   topic: "ZIO Streams: A Toolkit for Modern Data-Driven Applications"
   description: "Streams are a declarative, high-level abstraction for representing
 many types of programs. In particular, purely functional streams built
@@ -222,7 +236,7 @@ During this talk, we will build a fully testable ray tracer in Scala with ZIO us
   alt: Jakub Kozlowski
   topic: Introduction to Interruption
   description: "Modern functional effect systems give us great power, but with that power comes interruptibility. It's important to know if and when your effects can be interrupted, and how to handle that interruption well.
-  
+
   In this talk, I'll provide a concise introduction to the way interruption works in functional IO, as well as some best practices for making our code interruption-safe."
 
 - title: Oleg Nizhnik
