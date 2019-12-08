@@ -1,5 +1,5 @@
-- time: 9:00 AM - 9:55 AM
-  info: "<u>Fancy (Z)Streams for Fancy Programs</u><br><b>Itamar Ravid</b>"
+- time: 9:00 AM - 9:50 AM
+  info: "<u>ZIO Streams: A Toolkit for Modern Data-Driven Applications</u><br><b>Itamar Ravid</b>"
 
 - time: 10:00 AM - 10:55 AM
   info: "<u>Functional Architecture</u><br><b>Piotr Golebiewski</b>"
@@ -16,20 +16,17 @@
 - time: 1:30 PM - 1:55 PM
   info: "<u>Practical Logic(al) Programming with Dotty</u><br><b>Lander Lopez</b>"
 
-- time: 2:00 PM - 2:25 PM
-  info: "<u>TBA</u><br><b>Matt Searle</b>"
-
-- time: 2:30 PM - 2:55 PM
-  info: "<u>Adventures in Type-safe Error Handling</u><br><b>Jacob Wang</b>"
+- time: 2:00 PM - 2:50 PM
+  info: "<u>Hyper-pragmatic Pure FP Testing with DIStage-Testkit</u><br><b>Pavel Shirshov & Kai Nyasha</b>"
 
 - time: 3:00 PM - 3:50 PM
   info: "<u>Composition using Arrows and Monoidal Categories</u><br><b>Oleg Nizhnik</b>"
 
 - time: 4:00 PM - 4:25 PM
-  info: "<u>Next-Level Type Safety: An Intro to Generalized Algebraic Data Types</u><br><b>Matthias Berndt</b>"
+  info: "<u>Adventures in Type-safe Error Handling</u><br><b>Jacob Wang</b>"
 
 - time: 4:30 PM - 4:55 PM
-  info: "<u>TBA</u><br><b>TBA</b>"
+  info: "<u>Next-Level Type Safety: An Intro to Generalized Algebraic Data Types</u><br><b>Matthias Berndt</b>"
 
 - time: 5:00 PM - 5:50 PM
   info: "<u>KEYNOTE: The Many Faces of Modularity</u><br><b>Eric Torreborre</b>"
