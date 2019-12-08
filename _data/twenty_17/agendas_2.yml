@@ -1,8 +1,5 @@
-- time: 9:00 AM - 9:55 AM
-  info: "<u>Modern Data-Driven Applications with ZIO Streams</u><br><b>Itamar Ravid</b>"
-
 - time: 9:00 AM - 9:50 AM
-  info: "<u>ZIO Streams: A Toolkit for Modern Data-Driven Applications</u><br><b>Itamar Ravid</b>"
+  info: "<u>Modern Data-Driven Applications with ZIO Streams</u><br><b>Itamar Ravid</b>"
 
 - time: 10:00 AM - 10:55 AM
   info: "<u>Functional Architecture</u><br><b>Piotr Golebiewski</b>"
