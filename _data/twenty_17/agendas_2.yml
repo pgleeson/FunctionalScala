@@ -14,7 +14,7 @@
   info: "<u>Macros and Environmental Effects</u><br><b>Maxim Schuwalow</b>"
 
 - time: 1:30 PM - 1:55 PM
-  info: "<u>Practical Logic(al) Programming with Dotty</u><br><b>Lander Lopez</b>"
+  info: "<u>Streaming Analytics with Scala and Spark</u><br><b>Bas Geerdink</b>"
 
 - time: 2:00 PM - 2:25 PM
   info: "<u>ZIO Actors</u><br><b>Mateusz Sokol</b>"
@@ -29,7 +29,7 @@
   info: "<u>Composition using Arrows and Monoidal Categories</u><br><b>Oleg Nizhnik</b>"
 
 - time: 4:00 PM - 4:25 PM
-  info: "<u>TBA</u><br><b></b>"
+  info: "<u>Practical Logic(al) Programming with Dotty</u><br><b>Lander Lopez</b>"
 
 - time: 4:30 PM - 4:55 PM
   info: "<u>Next-Level Type Safety: An Intro to Generalized Algebraic Data Types</u><br><b>Matthias Berndt</b>"
