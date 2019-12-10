@@ -415,3 +415,16 @@ Welcome version 0.2 of the library with simpler API, new features and, as usual,
   At the core of a streaming 'pipes and filters' architecture is the execution of predictive models that operate on enormous amounts of never-ending data streams.
   In this talk, Bas will go through a few challenges that will arise when dealing with streaming data, such as latency issues, event time vs server time, and exactly-once processing.
   All code examples are written in Scala. The solution is built on the KISSS stack: Kafka, Ignite, and Spark Structured Streaming. The solution is open source and available on GitHub."
+
+- title: Aleksandra A Holubitska
+  name: Aleksandra-A-Holubitska
+  subtitle: Web Developer
+  img: Aleksandra_A_Holubitska.jpg
+  thumbnail: Aleksandra_A_Holubitska.jpg
+  alt: Oleksandra A Holubitska
+  topic: "ZIO Chunk: A Fast, Pure Alternative to Arrays"
+  description: "Arrays are fast and don’t box primitive values, but due to class tag requirements and mutability,
+  they are painful to use and don’t integrate well into functional code.
+  In this presentation, Aleksandra A Holubitska introduces the audience to Chunk,
+  a data type in ZIO that’s designed to be friendly to use, immutable, and high-performance.
+  Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
