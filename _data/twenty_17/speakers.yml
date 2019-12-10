@@ -255,19 +255,18 @@ During this talk, we will build a fully testable ray tracer in Scala with ZIO us
   description: "Scala is a language that many companies use nowadays. But it’s also considered to be very complex and hard to master. So, some of those companies are looking to migrate to Kotlin. Do they need to write everything from scratch, though?
 In this talk, we’ll see how we can build Kotlin services on top of Scala infrastructure, so you can have best of both."
 
-- title: Tom Sydney Kerckhove
-  name: Tom-Sydney-Kerckhove
-  subtitle: Technical Leader, Speaker
-  img: Tom_Sydney_Kerckhove.jpg
-  thumbnail: Tom_Sydney_Kerckhove.jpg
-  alt: Tom Sydney Kerckhove
-  topic: Validity-Based Testing
-  description: "Writing correct software is difficult. Property testing has the
-potential to make safe software easier and cheaper. However, current
-methods still involve the costly requirement for programmers to write
-generators, shrinking functions and properties. Validity-based testing
-promises free generators, free shrinking and cheap properties, to allow
-property-based testing to fulfill its true potential."
+- title: Aleksandra A Holubitska
+  name: Aleksandra-A-Holubitska
+  subtitle: Web Developer
+  img: Aleksandra_A_Holubitska.jpg
+  thumbnail: Aleksandra_A_Holubitska.jpg
+  alt: Oleksandra A Holubitska
+  topic: "ZIO Chunk: A Fast, Pure Alternative to Arrays"
+  description: "Arrays are fast and don’t box primitive values, but due to class tag requirements and mutability,
+  they are painful to use and don’t integrate well into functional code.
+  In this presentation, Aleksandra A Holubitska introduces the audience to Chunk,
+  a data type in ZIO that’s designed to be friendly to use, immutable, and high-performance.
+  Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
 
 - title: Mike Kotsur
   name: Mike-Kotsur
@@ -415,16 +414,3 @@ Welcome version 0.2 of the library with simpler API, new features and, as usual,
   At the core of a streaming 'pipes and filters' architecture is the execution of predictive models that operate on enormous amounts of never-ending data streams.
   In this talk, Bas will go through a few challenges that will arise when dealing with streaming data, such as latency issues, event time vs server time, and exactly-once processing.
   All code examples are written in Scala. The solution is built on the KISSS stack: Kafka, Ignite, and Spark Structured Streaming. The solution is open source and available on GitHub."
-
-- title: Aleksandra A Holubitska
-  name: Aleksandra-A-Holubitska
-  subtitle: Web Developer
-  img: Aleksandra_A_Holubitska.jpg
-  thumbnail: Aleksandra_A_Holubitska.jpg
-  alt: Oleksandra A Holubitska
-  topic: "ZIO Chunk: A Fast, Pure Alternative to Arrays"
-  description: "Arrays are fast and don’t box primitive values, but due to class tag requirements and mutability,
-  they are painful to use and don’t integrate well into functional code.
-  In this presentation, Aleksandra A Holubitska introduces the audience to Chunk,
-  a data type in ZIO that’s designed to be friendly to use, immutable, and high-performance.
-  Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
