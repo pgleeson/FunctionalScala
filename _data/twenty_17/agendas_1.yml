@@ -7,7 +7,7 @@
 - time: 10:30 AM - 10:55 AM
   info: "<u>Making Algorthms work with Functional Scala</u><br><b>Karl Brodowsky</b>"  
 
-- time: 11:00 AM - 12:50 AM
+- time: 11:00 AM - 11:50 AM
   info: "<u>Solving the Scala Notebook Experience</u><br><b>Jeremy Smith & Jonathan Indig</b>"
 
 - time: 12:00 PM - 1:00 PM
@@ -19,20 +19,20 @@
 - time: 1:30 PM - 1:55 PM
   info: "<u>Prototyping the Future with Functional Scala</u><br><b>Mike Kotsur</b>"
 
-- time: 2:00 PM - 2:50 PM
+- time: 2:00 PM - 2:25 PM
   info: "<u>Test Effects: First Class</u><br><b>Adam Fraser</b>"
 
-- time: 3:00 PM - 3:25 PM
+- time: 2:30 PM - 2:55 PM
   info: "<u>Let's Gossip!</u><br><b>Dejan Mijic &amp; Przemyslaw Wierzbicki</b>"
 
-- time: 3:30 PM - 3:55 PM
+- time: 3:00 PM - 3:25 PM
   info: "<u>Ray Tracing with ZIO</u><br><b>Pierangelo Cecchetto</b>"
 
-- time: 4:00 PM - 4:25 PM
-  info: "<u>Validity-Based Testing</u><br><b>Tom Sydney Kerckhove</b>"
-
-- time: 4:30 PM - 4:55 PM
+- time: 3:30 PM - 3:55 PM
   info: "<u>Invertible Programs</u><br><b>Sergei Shabanau</b>"
+
+- time: 4:00 PM - 4:50 PM
+  info: "<u>Hyper-pragmatic Pure FP Testing with DIStage-Testkit</u><br><b>Pavel Shirshov & Kai</b>"
 
 - time: 5:00 PM - 5:50 PM
   info: "<u>KEYNOTE: Unleash Your Fury</u><br><b>Jon Pretty</b>"

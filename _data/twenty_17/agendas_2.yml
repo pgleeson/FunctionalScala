@@ -1,8 +1,11 @@
 - time: 9:00 AM - 9:50 AM
   info: "<u>Modern Data-Driven Applications with ZIO Streams</u><br><b>Itamar Ravid</b>"
 
-- time: 10:00 AM - 10:55 AM
+- time: 10:00 AM - 10:25 AM
   info: "<u>Functional Architecture</u><br><b>Piotr Golebiewski</b>"
+
+- time: 10:30 AM - 10:55 AM
+  info: "<u>ZIO Chunk: A Fast, Pure Alternative to Arrays</u><br><b>Aleksandra A. Holubitska</b>"
 
 - time: 11:00 AM - 11:55 AM
   info: "<u>Caliban: Designing a Functional GraphQL Library</u><br><b>Pierre Ricadat</b>"
@@ -21,9 +24,6 @@
 
 - time: 2:30 PM - 2:55 PM
   info: "<u>Adventures in Type-safe Error Handling</u><br><b>Jacob Wang</b>"
-
-- time: 2:00 PM - 2:50 PM
-  info: "<u>Hyper-pragmatic Pure FP Testing with DIStage-Testkit</u><br><b>Pavel Shirshov & Kai</b>"
 
 - time: 3:00 PM - 3:50 PM
   info: "<u>Composition using Arrows and Monoidal Categories</u><br><b>Oleg Nizhnik</b>"
