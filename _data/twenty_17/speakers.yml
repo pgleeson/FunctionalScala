@@ -393,7 +393,6 @@ Welcome version 0.2 of the library with simpler API, new features and, as usual,
   as well as seamless interoperability between multiple languages – including Scala, Python, and SQL – and a host of other improvements that evolve the notebook experience.
   We'll demonstrate our open-source notebook solution – and talk about why we built it, how some great functional Scala libraries allowed us to go from zero to MVP in an unbelievably short time, and what we learned from migrating to ZIO"
 
-
 - title: Mateusz Sokol
   name: Mateusz-Sokol
   subtitle: Software Engineer at Scalac
@@ -403,3 +402,16 @@ Welcome version 0.2 of the library with simpler API, new features and, as usual,
   topic: "ZIO Actors"
   description: "Actors are one of the most popular concurrency models in nowadays software systems. In this talk, Mateusz will present zio-actors - a small, strongly typed actor library backed by ZIO.
   He will explain library design, demonstrate its usage and point out the differences and similarities with Akka."
+
+- title: Bas Geerdink
+  name: Bas-Geerdink
+  subtitle: Technology Lead at Aizonic
+  img: Bas_Geerdink.jpg
+  thumbnail: Bas_Geerdink.jpg
+  alt: Bas Geerdink
+  topic: "Streaming Analytics with Scala and Spark Structured Streaming"
+  description: "Streaming Analytics (or Fast Data processing) is becoming an increasingly popular subject in enterprise organizations.
+  The reason for this is that customers want to have real-time experiences, such as notifications and advise based on their online behaviour and other users’ actions.
+  At the core of a streaming 'pipes and filters' architecture is the execution of predictive models that operate on enormous amounts of never-ending data streams.
+  In this talk, Bas will go through a few challenges that will arise when dealing with streaming data, such as latency issues, event time vs server time, and exactly-once processing.
+  All code examples are written in Scala. The solution is built on the KISSS stack: Kafka, Ignite, and Spark Structured Streaming. The solution is open source and available on GitHub."
