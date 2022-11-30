@@ -1,6 +1,6 @@
 title: "Test test"
 description: "mmm www nnn."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /
 url: "https://pgleeson.github.io/FunctionalScala/" # the base hostname & protocol for your site
 title_image: "https://github.com/pgleeson/FunctionalScala/raw/master/css/2016_style/img/header-bg.jpg"
 # Build settings
