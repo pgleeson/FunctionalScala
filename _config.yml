@@ -1,7 +1,7 @@
 title: "Test test 22"
 description: "mmm www nnn. rr"
-baseurl: /
-url: "https://pgleeson.github.io" # the base hostname & protocol for your site
+baseurl: /FunctionalScala/
+url: "https://pgleeson.github.io/" # the base hostname & protocol for your site
 title_image: "https://github.com/pgleeson/FunctionalScala/raw/master/css/2016_style/img/header-bg.jpg"
 # Build settings
 markdown: kramdown
